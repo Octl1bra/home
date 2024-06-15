@@ -1,0 +1,11 @@
+{
+  "name": "home",
+  "private": true,
+  "scripts": {
+    "format": "prettier --cache --write ."
+  },
+  "dependencies": {
+    "@fzf404/prettier-config": "^0.7.5"
+  },
+  "prettier": "@fzf404/prettier-config"
+}
